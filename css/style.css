@@ -82,6 +82,10 @@ img, video, audio, iframe, table, form {
 .col-3 {
 }
 
+.shadow {
+  box-shadow: 0 3px 10px #333;
+}
+
 [class*="col-"] {
   margin-left: 2%;
 }
